@@ -36,7 +36,6 @@ body {
   @apply bg-orange-300;
 }
 
-/* Utilities */
 .glass-panel {
   @apply bg-white/70 backdrop-blur-xl border border-white/40 shadow-[0_8px_30px_rgb(0, 0, 0, 0.04)];
 }
