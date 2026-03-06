@@ -125,9 +125,9 @@ function App() {
               >
                 {restaurant[lang].description}
                 <br />
-                <span className="text-orange-300 mt-2 inline-block">
+                {/* <span className="text-orange-300 mt-2 inline-block">
                   {info[lang].bulkOrders}
-                </span>
+                </span> */}
               </motion.p>
             </AnimatePresence>
 
